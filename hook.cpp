@@ -52,11 +52,11 @@ const std::list<piu_bind> binds = {
     { KEY_C,  STATE_PLAYER_1, PAD_RD },
     { KEY_F5, STATE_CAB_PLAYER_1, CAB_COIN },
 
-    { KEY_KP7,  STATE_PLAYER_2, PAD_LU },
-    { KEY_KP9,  STATE_PLAYER_2, PAD_RU },
-    { KEY_KP5,  STATE_PLAYER_2, PAD_CN },
-    { KEY_KP1,  STATE_PLAYER_2, PAD_LD },
-    { KEY_KP3,  STATE_PLAYER_2, PAD_RD },
+    { KEY_R,  STATE_PLAYER_2, PAD_LU },
+    { KEY_Y,  STATE_PLAYER_2, PAD_RU },
+    { KEY_G,  STATE_PLAYER_2, PAD_CN },
+    { KEY_V,  STATE_PLAYER_2, PAD_LD },
+    { KEY_N,  STATE_PLAYER_2, PAD_RD },
     { KEY_F6,    STATE_CAB_PLAYER_2, CAB_COIN },
 
     { KEY_F1, STATE_CAB_PLAYER_1, CAB_TEST },
