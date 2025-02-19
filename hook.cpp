@@ -50,6 +50,11 @@ const std::list<piu_bind> binds = {
     { KEY_S,  STATE_PLAYER_1, PAD_CN },
     { KEY_Z,  STATE_PLAYER_1, PAD_LD },
     { KEY_C,  STATE_PLAYER_1, PAD_RD },
+    { KEY_6,  STATE_PLAYER_1, PAD_LU },
+    { KEY_8,  STATE_PLAYER_1, PAD_RU },
+    { KEY_7,  STATE_PLAYER_1, PAD_CN },
+    { KEY_5,  STATE_PLAYER_1, PAD_LD },
+    { KEY_9,  STATE_PLAYER_1, PAD_RD },
     { KEY_F5, STATE_CAB_PLAYER_1, CAB_COIN },
 
     { KEY_R,  STATE_PLAYER_2, PAD_LU },
